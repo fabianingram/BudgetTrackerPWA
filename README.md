@@ -20,8 +20,7 @@ Please visit the following deployed live webpage hosted by Heroku:
 
 https://cryptic-castle-22808.herokuapp.com/
 
-
-![picture] <img width="468" alt="budgetpwa" src="https://user-images.githubusercontent.com/68198938/102033655-35ed1880-3d79-11eb-85f3-b4b0c3ab6f93.png">
+ <img width="468" alt="budgetpwa" src="https://user-images.githubusercontent.com/68198938/102033655-35ed1880-3d79-11eb-85f3-b4b0c3ab6f93.png">
 
     
 ## Credits 
