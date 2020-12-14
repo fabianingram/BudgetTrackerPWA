@@ -11,7 +11,7 @@ Here is a Budget Tracker that has been updated in order to allow offline access 
 * [License](#license)
 
 ## Installation 
-Install the package.json dependencies by first typing "npm install" in your terminal. Make sure to do this is after you clone the GitHub repo, and want to test the app in the localhost environment. If you do, type "node server" to start the server and go to http://localhost:3001 in your browser in order to test the app. 
+Before anything make sure to Install the package.json dependencies by first typing "npm install" in your terminal. Make sure to do this is after you clone the GitHub repo, and want to test the app in the localhost environment. If you do, type "node server" to start the server and go to http://localhost:3001 in your browser in order to test the app. 
 
 
 
