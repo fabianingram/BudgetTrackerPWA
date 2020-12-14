@@ -21,7 +21,7 @@ Please visit the following deployed live webpage hosted by Heroku:
 https://cryptic-castle-22808.herokuapp.com/
 
 
-![picture](budgetpwa.png)
+![picture](budget.png)
     
 ## Credits 
 UofA Coding Bootcamp starter code.
