@@ -2,7 +2,7 @@
 # BudgetTrackerPWA
 
 ## Description
-View a Budget Tracker that has been updated to allow offline access and functionality. Users can add expenses and deposits to their budget with or without an internet connection. If entering transactions while offline, once connected, the budget tracker should automatically be updated. This app is a Progressive Web Application (PWA).
+Here is a Budget Tracker that has been updated in order to allow offline access and functionality. Users will be allowed to add expenses as well as deposits to their budget with or without an internet connection. When entering transactions while offline, once connected, the budget tracker will automatically be updated. This app is a Progressive Web Application (PWA).
 
 ## Table of Contents 
 * [Installation](#installation)
@@ -11,11 +11,11 @@ View a Budget Tracker that has been updated to allow offline access and function
 * [License](#license)
 
 ## Installation 
-Install the package.json dependencies by typing "npm install" in your terminal. This is after you clone the GitHub repo, and want to test the app in the localhost environment. If so, type "node server" to start the server and go to http://localhost:3001 in your browser to test the app. 
+Install the package.json dependencies by first typing "npm install" in your terminal. Make sure to do this is after you clone the GitHub repo, and want to test the app in the localhost environment. If you do, type "node server" to start the server and go to http://localhost:3001 in your browser in order to test the app. 
 
 
 
-## Usage 
+## Usage example
 Please visit the following deployed live webpage hosted by Heroku:
 
 https://cryptic-castle-22808.herokuapp.com/
